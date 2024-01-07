@@ -19,5 +19,6 @@
 
 | Icon Theme | Source |
 | --- | --- |
+| [Gruvbox](asset/overlay/usr/share/icons/Gruvbox-Dark) | [Source](https://www.opencode.net/adhe/gruvboxplasma/-/tree/master/icons/Gruvbox?ref_type=heads) |
 | [Gruvbox-Dark](asset/overlay/usr/share/icons/Gruvbox-Dark) | [Source](https://github.com/jmattheis/gruvbox-dark-icons-gtk) |
 | [Gruvbox-Plus-Dark](asset/overlay/usr/share/icons/Gruvbox-Plus-Dark) | [Source](https://github.com/SylEleuth/gruvbox-plus-icon-pack) |
