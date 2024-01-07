@@ -10,6 +10,7 @@
 
 | Gtk Theme | Source |
 | --- | --- |
+| [Gruvbox](asset/overlay/usr/share/themes/Gruvbox) | [Source](https://github.com/archcraft-os/archcraft-themes/tree/main/archcraft-gtk-theme-gruvbox/files/Gruvbox) |
 | [Gruvbox-Dark](asset/overlay/usr/share/themes/Gruvbox-Dark) | [Source](https://github.com/jmattheis/gruvbox-dark-gtk) |
 | [Gruvbox-Plus](asset/overlay/usr/share/themes/Gruvbox-Plus) | [Source](https://github.com/SylEleuth/gruvbox-plus-gtk) |
 
