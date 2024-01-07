@@ -2,6 +2,13 @@
 
 # gruvbox-theme-remix
 
+| Link | GitHub |
+| --- | --- |
+| [gruvbox-theme-remix](https://samwhelp.github.io/gruvbox-theme-remix/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-remix) |
+
+
+## Theme
+
 * [gtk-theme](#gtk-theme)
 * [icon-theme](#icon-theme)
 
