@@ -1,6 +1,6 @@
 
 
-# icon-theme / Gruvbox-Dark
+# icon-theme / Gruvbox
 
 | Icon Theme |
 | --- |
