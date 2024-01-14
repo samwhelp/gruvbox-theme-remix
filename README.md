@@ -20,7 +20,7 @@
 | [Gruvbox](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/themes/Gruvbox) | [Source](https://github.com/archcraft-os/archcraft-themes/tree/main/archcraft-gtk-theme-gruvbox/files/Gruvbox) |
 | [Gruvbox-Dark](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/themes/Gruvbox-Dark) | [Source](https://github.com/jmattheis/gruvbox-dark-gtk) |
 | [Gruvbox-Plus](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/themes/Gruvbox-Plus) | [Source](https://github.com/SylEleuth/gruvbox-plus-gtk) |
-| [Gruvbox-Material-Dark](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/themes/Gruvbox-Material) | [Source](https://github.com/sainnhe/gruvbox-material-gtk/tree/master/themes/Gruvbox-Material-Dark) |
+| [Gruvbox-Material-Dark](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/themes/Gruvbox-Material-Dark) | [Source](https://github.com/sainnhe/gruvbox-material-gtk/tree/master/themes/Gruvbox-Material-Dark) |
 | [Klaus](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/themes/Klaus) | [Source](https://github.com/tsbarnes/Klaus) |
 
 
