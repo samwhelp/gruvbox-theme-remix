@@ -5,6 +5,7 @@
 | Link | GitHub |
 | --- | --- |
 | [gruvbox-theme-remix](https://samwhelp.github.io/gruvbox-theme-remix/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-remix) |
+| note-about-theme / [gruvbox-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/gruvbox-theme.html) | [GitHub](https://github.com/samwhelp/note-about-theme) |
 
 
 ## Theme
@@ -45,3 +46,11 @@
 |[aurorae-theme](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/aurorae/themes/Gruvbox) | [Source](https://www.pling.com/p/1327718/) |
 |[plasma-theme](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/plasma/desktoptheme/Gruvbox) | [Source](https://www.pling.com/p/1327719/) |
 |[konsole-theme](https://github.com/samwhelp/gruvbox-theme-remix/tree/main/asset/overlay/usr/share/konsole) | [Source](https://www.pling.com/p/1327725/) |
+
+
+## iso-profile
+
+| ISO Profile | GitHub |
+| --- | --- |
+| [Eznixos Adjustment / Iso Profile / Kde Plasma / Gruvbox](https://samwhelp.github.io/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox) |
+| [eznixos-adjustment-iso-profile-prototype](https://samwhelp.github.io/eznixos-adjustment-iso-profile-prototype/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype) |
