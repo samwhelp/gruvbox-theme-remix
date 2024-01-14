@@ -1,7 +1,8 @@
 [Icon Theme]
 Name=Gruvbox-Material-Dark
 Comment=Papirus icon theme
-Inherits=breeze,hicolor
+#Inherits=breeze,hicolor
+Inherits=Papirus-Dark,Numix-Circle,Numix,breeze-dark,Adwaita,gnome,hicolor
 
 Example=folder
 
